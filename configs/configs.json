@@ -1,0 +1,4 @@
+{
+    "ports": 3010,
+    "poll_interval_minutes": 15
+}
